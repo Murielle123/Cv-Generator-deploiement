@@ -1,0 +1,77 @@
+{
+    "Profil": {
+        "nom": "TABARANI",
+        "prenom": "Yassine"
+    },
+    "Formations": [
+        {
+            "titre": "Msc in Industrial and Applied Mathematics, Grenoble, Data Science and AI",
+            "date": "2022–2023",
+            "établissement": "Grenoble",
+            "description": "Machine Learning, Deep Learning, Cloud computing, Big Data."
+        },
+        {
+            "titre": "ENSIMAG, Grenoble, Informatique et math´ematiques appliqu´ees",
+            "date": "2020–2023",
+            "établissement": "Grenoble",
+            "description": "Unix et programmation shell, programmation imp´erative, orient´ee objet, conccurente, Base de donn´ees, Syst`eme d’exploitation, R´eseaux, D´eveloppement web/mobile. Analyse, Probabilit´es, Statistiques, Optimisation num´erique, Recherche op´erationnelle."
+        },
+        {
+            "titre": "Classes pr´eparatoires aux grandes ´ecoles, MPI",
+            "date": "2018–2020",
+            "établissement": "",
+            "description": ""
+        }
+    ],
+    "Expériences professionnelles": [
+        {
+            "nom de l'entreprise": "Crédit Agricole CIB",
+            "nom du poste occupé": "Stage de fin d'étude",
+            "date": "Mars - Août 2023",
+            "description": "Mise en place d’une solution end-to-end pour un modèle interne de détection précoce des dégradations des ratings en Python.\n\n- Développement d’une librairie python pour le modèle statistique de détection précoce.\n- Profiling, optimisation et accélération d’exécutions sur la base du framework numba et du multiprocessing.\n- Construction de datamarts avec SQL pour la phase de Data Retrieval et Data Preprocessing.\n- Mise en place de tests unitaires et d’intégrations avec Pytest.\n- Mise en place d’une interface web pour le reporting avec Python Django.",
+            "environnement technique": "Python 3, Pandas, Numpy, Scikit-Learn, Django, Numba, Bash, SQL, Git"
+        },
+        {
+            "nom de l'entreprise": "Laboratoire d’informatique de Grenoble",
+            "nom du poste occupé": "Projet école/laboratoire",
+            "date": "Février - Avril 2022",
+            "description": "Implémentation d’un compilateur en Java pour un langage propriétaire doté d’une syntaxe et de fonctionnalités propres en mode agile.\n\n- Réalisation de l’analyse lexicale et syntaxique avec un générateur lexeur/parseur ANTLR4.\n- Mise en place de tests et évaluation de la couverture avec Jacoco.\n- Automatisation des tests avec des scripts bash.\n- Implémentation d’une librairie pour le calcul trigonométrique avec l’algorithme CORDIC.",
+            "environnement technique": "Java 8, Maven, Jacoco, Bash, Git"
+        }
+    ],
+    "Compétences techniques": {
+        "Langages de programmation": "Python, Java, C",
+        "Framework": "Django",
+        "Base de données": "SQL, Oracle",
+        "Logiciels": "",
+        "Librairie": "Pandas, Numpy, Scikit-Learn",
+        "Bibliothèque": "",
+        "Système d'exploitation": "Unix",
+        "Serveur d'application": "",
+        "Outils dataviz": "",
+        "Méthodologie": "Agile",
+        "API Design": "",
+        "Cloud Computing": "AWS",
+        "Devops": "",
+        "Autres outils": "Git, Bash, Maven, Makefile"
+    },
+    "Compétences fonctionnelles": {
+        "Processus métiers bancaires": "",
+        "Interlocuteurs privilégiés": "",
+        "Périmètre fonctionnel": "E-commerce"
+    },
+    "Certifications": [],
+    "Langues": [],
+    "Projets": [
+        {
+            "titre": "Projet Base de donn´ees",
+            "date": "2020-2021",
+            "description": "Conception d’une application pour de l’e-commerce. Conception d’une application en Java adoptant un syst`eme d’ench`ere pour la vente. Impl´ementation de la base de donn´ees sur Oracle. D´eveloppement d’une interface graphique JAVA avec Swing permettant la d´emonstration des fonctionnalit´es de l’application. Environnement technique: JAVA 8, JDBC, SQL, Data Modeling."
+        },
+        {
+            "titre": "Projet G´enie Logiciel",
+            "date": "2020-2021",
+            "description": "Interface Graphique en C. D´eveloppement d’une biblioth`eque logicielle en C pour la r´ealisation d’interfaces graphiques qui permet la cr´eation et la configuration de widgets. Impl´ementation d’un utilitaire de fonctions pour le dessin des primitives graphiques. Cr´eation et configuration des widgets, gestion de la g´eom´etrie (clipping, resizing) et gestion des ´ev`enements (callbacks, handler). Environnement technique: C, Makefile, Git."
+        }
+    ]
+}

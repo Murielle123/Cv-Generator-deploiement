@@ -1,0 +1,62 @@
+Hippolyte Gotzorides
+A highly motivated student in financial and computer engineering in a gap year seeking for a six
+month internship starting in January/February 2024. With a strong academic background and a
+keen interest in the intersection of finance and technology, I am eager to apply my knowledge and
+skills in a real-world setting.
+Education
+Contact
+Grenoble-INP ENSIMAG, UGA
+Grenoble, France
+2021-2025
+Phone Diploma in Financial and Computer Engineering from ENSIMAG Grenoble-INP,UGA
++33 7 82 13 85 80 and Master in Quantitative Finance from IAE Grenoble
+Courses taken: Operations research, numerical optimization, stochastic processes with
+application to finance, financial markets, inferential statistics, principles of database
+Email
+management systems, statistical analysis and document mining, derivatives.
+h.gotzorides@gmail.com
+ENCPB Paris, France
+Address 2019-2021
+85 boulevard Pasteur 'Classe Préparatoires, MPSI/MP'
+75015 Paris An intensive two-year program in mathematics, physics and computer science, designed
+to prepare students for the national entrance exam to France's top engineering schools.
+Experience
+Programmation
+Scalens, fintech Paris, France
+Python
+Pandas June 2023 - December 2023
+Pytorch Data scientist intern (NLP)
+Airflow OCR techniques for data extraction
+Spark NLP for data classification with Deep Learning models, including Transformers
+Kafka Machine Learning methods for data analysis
+C Utilisation of Kafka and Airflow for deploying NLP project
+Java
+Linux Project
+Docker
+SQL
+Javascript Pseudo-Java language compiler in Java
+HuggingFace January 2023
+AWS Development in a team of 5 of a Java compiler for Java's object-oriented sub-language
+'Deca'.
+JPEG encoder in C
+May 2022
+Language
+Development of a JPEG encoder in a team of 3, in compliance with JPEG standards.
+Black-Scholes Model
+English: fluent May 2023
+French: fluent Project to complete the course on derivatives and stochastic calculations:
+Development of a program that implement the Black-Scholes option pricig model
+Monte Carlo Simulation for Options
+June 2023
+Development of a Monte Carlo simulation to price options, useful for complex options
+Personnal interest
+with various features and payoffs
+Basket Associative Experience
+Foot
+Student association
+Tennis
+2022-2023
+Guitar
+Travel and Audiovisual Manager
+Supervised the recording of several short films and organized a trip to Rome for
+for 60 people.

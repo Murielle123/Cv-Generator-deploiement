@@ -1,0 +1,73 @@
+SLIM DAKHLI
+DéveloppeurFullStack
+[ slimdakhli9@gmail.com (cid:211) 216-54-302406 ‰ Borjlouzir,2073Ariana,Tunisia
+fl linkedin.com/in/slim-dakhli
+EXPERIENCE
+COMPÉTENCES
+Développeur Full Stack
+Java Javascript SpringBoot
+Minotore SpringSecurity SpringCloud
+(cid:17) Juin2022–encours ‰ Tunisia
+Maven Eureka Zuul MongoDB
+• Travaillercommeundéveloppeurfullstacksurdesplateformepourlesges-
+Angular10 Ionic MySql
+tionnairedesactifsetlesfournisseursdesETFpourexposerleursproduits
+commeLyxor,SeeyondetAmundi.
+Microservices Scrum Keycloak
+• Technologies:Java,SpringBoot,Angular
+Postgresql Istio Git Cocumber
+Serenity Screenplay
+Développeur Full Stack
+Be-softilys LANGUAGES
+(cid:17) Avril2022–Juin2022 ‰ Tunisia
+• TravaillercommeundéveloppeurBackendsurunprojetdegestiondesiden- Arabe
+titésetdesaccès(IAM,IdentityandAccessManagement). Français
+• Technologies:Java,SpringBoot,Keycloak Anglais
+(cid:17) Novembre2021–Mars2022 ‰ Tunisia EDUCATION
+• Travaillersurledéveloppementdesscénariosdestestsautomatiquesd’une
+applicationwebdegestiondesfactures.
+Ingénieur en génie logiciel
+• L’applicationutiliseSagepourlavalidationdesbonsdelivraisonetlagénéra-
+tiondesfactures. TekUPUniversity
+• DévelopperunmodulemavenpourlirelesfacturesPDFetgénérerunfichier (cid:17) September2018–Juin2021
+JSONpourchaquefactureàl’aidedePDFBoxetJackson.
+• Technologies:Java,Cocumber,Serenity,Screenplay,Maven
+Licence appliquée en Système
+embarqué
+Freelancer
+ISIAriana
+(cid:17) Juillet2021–Octobre2021 ‰ Tunisia
+(cid:17) September2015–Juin2018
+• DévelopperuneapplicationpourgestiondescongésetdesétatsCOVID-19
+desemployésd’unesociété.
+• Technologies:SpringBoot,SpringSecurity,Maven,MySQL,Angular10, CENTRES D’INTÉRÊTS
+GitHub
+Courseàpied
+Stage PFE Camping
+Natation
+TEAMWILL
+(cid:17) Janvier2021–Juillet2021 ‰ Tunisia
+• ConcevoiretdévelopperunesolutionBEenarchitecturemicroservicespour
+gérerlalecture,enregistrement,vérificationetscoringsurleschèquesban-
+caires.Dansceprojetj’aitravaillésurlapartiedegestiondesutilisateurs.
+• Technologies:Angular10,SpringBoot,PostgreSQL,Keycloak,Istio
+Stage d’été
+GECOM
+(cid:17) Juillet2020–Août2020 ‰ Tunisia
+• Développementdelapartiefrontendd’uneapplicationmobileàl’aided’ionic.
+J’aiutiliséFigmapourlapréparationdumaquettepuisj’aicommencéàdévelop-
+perlesinterfacesapréslavalidationdemonencadreur.
+• Technologies:IonicPROJETS ACADÉMIQUES
+conception et développement du projet
+Eshop:Platformed’e-commerce
+• Conceptionetdéveloppementd’uneapplicationdecommerceélectronique
+avecunearchitecturedemicroservices.
+• J’aitravaillédansceprojetsurlemicroservicedegestiondesclientsetla
+gestiondespaniers.
+• Technologies:SpringBoot,SpringSecurity,Eureka,GetawayZull,Feign-
+Client,Angular9,mongoDB,scrum,GitHub
+Projet Spring Boot
+AbsenceManager
+• Conceptionetdéveloppementd’uneinterfacepourlagestiondesabsences
+desétudiants'AbsenceManager'.
+• Technologies:SpringBoot,Maven,Thymeleaf,Hibernate,MySQL,scrum

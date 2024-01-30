@@ -1,0 +1,493 @@
+YOUSSOUFA DIALLO
+CONSULTANT JAVA FINANCE, ASSURANCE
+16 ANS D’EXPERIENCE
+Formation
+2007 Master 2 « Systèmes d’information & Réseaux » - Université François
+Rabelais, Tours
+Langues
+ANGLAIS Courant
+Compétences Fonctionnelles
+ACTIVITES Process Front/Middle/Back Offices en Banque de Financement et
+d’Investissement
+Compétences Techniques
+METHODOLOGIES SCRUM, UML, BDD, TDD, DDD, CI/CD, DEVOPS,
+ARCHITECTURES MICROSERVICES
+LANGAGES JAVA, J2EE (EJB, JDBC, SERVLET, JSP, JMS, SERVICE WEB),
+PL/SQL, SQL, XML, XSL, XSLT, XSP, PHP, JAVASCRIPT, HTML,
+CSS, SHELL, PERL.
+FRAMEWORKS SPRING, SPRING BOOT, SPRING DATA, SPRING BATCH, SPRING
+SECURITY, HIBERNATE, JACKSON, MODELMAPPER,
+MOCKITO, MOCKSERVER, TESTCONTAINERS, TOGGLZ, JAXB,
+LOMBOK, GUAVA, DOZER, DROOLS, HAZELCAST, SERVICE
+WEB (CXF, JERSEY, REST, SOAP, SOAPUI), AWS, SWAGGER,
+ACTIVEMQ, MOM, EUREKA, ANSIBLE, LIQUIBASE, SLF4J,
+LOGBACK, EJB 3, OJB, JBPM, STRUTS 2, JQUERY, DOM4J,
+LOG4J, JUNIT, APCHE-POI, ITEXT, FIX
+SERVEURS WEBSPHERE, TOMCAT, NETTY, JBOSS, SUN ONE WEB
+D’APPLICATIONS SERVER.
+SGBD ORACLE, MONGODB, SYBASE, SQL SERVER, MYSQL,
+POSTGRESQL, DB2, ACCESS.
+OUTILS/ETL CVS, SVN, RTC, GIT, GITHUB, BITBUCKET, MAVEN, ANT,
+JENKINS, DOCKER, SONAR, NEXUS, ECLIPSE, INTELLIJ,
+SYBERARK, JIRA, POSTMAN, SOAPUI, POSEIDON, POWER
+DISIGNER, ENTERPRISE ARCHITECT, BUSINESS OBJECTS,
+MYREPORT, EXCEL, SPOON.
+PROTOCOLES HTTP, REST, TIBCO RDV, SWIFT, SOAP, TCP/IP, UDP.
+Missions en Finance
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35BNP PARIBAS Consultant JAVA Finance
+CACIB Consultant JAVA Finance
+HSBC Consultant JAVA Finance
+CACEIS Consultant JAVA Finance
+SGCIB Consultant JAVA Finance
+Expérience Professionnelle
+09/2021 - Ce jour SGCIB (Société Générale Corporate and Investment Banking)
+2 ans Consultant JAVA Finance
+Contexte du projet : Au sein du service GPM de la SGCIB, architecture, conception, développement,
+support niveau 3 de l’application SR (Système de Règlement) qui gère les payements de la banque.
+Langues de travail : Anglais/Français
+Contribution :
+1. Transformation des batchs de payement en microservices
+2. Architecture de l’application
+3. Mise en place de la norme ISO 20022
+Descriptif des tâches :
+• Analyse des besoins
+• Etude de faisabilité et Choix des solutions techniques
+• Mise en place de l’architecture microservices
+• Conception technique et détaillée
+• Découpage et estimation des taches
+• Développement
+- Création des scripts SQL des tables et des procédures stockées
+- Création des microservices rest avec Spring Boot et Swagger
+- Injection de dépendance avec Spring et Spring Boot
+- Sécurisation avec Spring Security et OAuth 2
+- Mapping objet relationnel avec JPA, Spring Data
+- Code Review
+- Tests unitaires avec Junit 5 et Mokito
+- Déploiement des microservices
+- intégration des données via Spring Batch
+- Loging avec Logback et SLF4J
+- Intégration continue avec Jenkins
+- Qualité et Refactoring avec Sonar
+- Publication sur Nexus
+• Tests d’intégration, fonctionnels, et homologation
+• Documentation technique en anglais
+• Scheduling via Autosys
+• Mise en production
+• Support niveaux 3
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+2ENV. FONCTION: BFI
+ENV. TECHNIQUE: JAVA 8 ET 11, SPRING 5, SPRING BOOT 2, LOMBOK, JAXB,
+MICROSERVICES(REST), JACKSON, MOCKITO, LOGBACK, SLF4J,
+JUNIT 5, SONAR, NEXUS, INTELLIJ, GIT, GITHUB, JIRA, MAVEN,
+SWAGGER, POSTMAN, ORACLE, SWIFT, SYBERARK, UNIX,
+WINDOWS 10
+11/2019 – 08/2021 BNP PARIBAS CIB
+21 mois Consultant JAVA Finance
+Contexte du projet : Au sein de BNP CIB, conception, développement de l’application Spreadauto
+qui permet d’analyser automatiquement les rapports financiers sur les entreprises demandeurs de crédit.
+Coordination, suivi et expertise technique sur l’application FXPLUS qui gère le payement et les
+échanges de monnaies
+Langues de travail : Anglais/Français
+Contribution :
+1. Architecture de l’application
+2. Conception et développement de l’application
+3. Conception et mise en place du CI/CD.
+4. Coordination, suivi et expertise technique des projets de l’application FXPLUS.
+Descriptif des tâches :
+• Analyse des besoins avec les Business Analystes
+• Etude de faisabilité et Choix des solutions techniques
+• Conception technique détaillée
+• Découpage et estimation des taches techniques et fonctionnelles
+• Conception et mise en place de la base de données
+- Model Conceptuelle des données (MCD)
+- Création des scripts SQL
+• Conception et mise en place du CI/CD
+- Création des scripts Ansible
+- Déploiement dans les différents environnements
+• Développement
+- Conception des Microservices avec Swager
+- Intégration des Services AWS(S3)
+- Intégration des services OCR(Abbyy)
+- Création des scripts Liquibase
+- Mapping objet relationnel avec JPA, Spring Data
+- Traitement des fichiers PDF avec Itext
+- Traitement des fichiers Excel avec Apache-poi
+- Création des Microservices Rest
+- Injection de dépendance avec Spring et Spring Boot
+- Monitoring avec Spring Boot Actuator, Spring Boot Admin
+- Code Review
+- Tests unitaires avec Junit 5
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+3- Loging avec Logback et SLF4J
+- Intégration continue avec Jenkins
+• Coordination, suivi et expertise technique des projets de l’application FXPLUS.
+ENV. FONCTION: BFI
+ENV. TECHNIQUE: JAVA 8, SPRING 5, SPRING BOOT 2, LOMBOK, JAXB,
+MICROSERVICES(REST), AWS(S3), OCR(ABBYY), ANSIBLE,
+LIQUIBASE, JACKSON, MODELMAPPER, MOCKITO, MOCKSERVER,
+LOGBACK, SLF4J, ITEXT, APCHE-POI, JUNIT 5, SONAR, NEXUS,
+INTELLIJ, GIT, BITBUCKET, JIRA, MAVEN, SWAGGER, POSTMAN,
+ORACLE, UNIX, WINDOWS 10
+10/2018 à 10/2019 Malakoff Mederic
+12 mois Consultant JAVA Assurance
+Contexte du projet : Au sein de la direction des systèmes d’informations, conception, développement
+de l’application PCPME qui est le portail Malakoff Mederic pour les entreprises.
+Langues de travail : Anglais/Français
+Contribution :
+1. Conception et développement des Microservices
+2. Prise en main de DXC GraphTalk
+3. Formation des testeurs
+Descriptif des tâches :
+• Analyse des besoins
+• Etude de faisabilité et Choix des solutions techniques
+• Conception technique et détaillée
+• Développement
+- Decouverte des Microservices avec Swager
+- Generation de codes avec Swagger Codegen
+- Appel des Microservices de DXC GraphTalk
+- Création des Microservices Rest
+- Reactive Programming avec Spring WebFlux
+- Création des Microservices Soap
+- Injection de dépendance avec Spring et Spring Boot
+- Monitoring avec Spring Boot Actuator et Spring Boot Admin
+- Gestion des Microservices par API Manegement
+- Gestion des messages avec ActiveMQ
+- Code Review
+- Tests unitaires avec Junit 5
+- Loging avec Logback et SLF4J
+- Intégration continue avec Jenkins et Docker
+- Migration de java 8 à java 11 et java 12
+• Formation et assistance des testeurs
+• Mise en production
+ENV. FONCTION: ASSURANCE
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+4ENV. TECHNIQUE: JAVA 8, 11 ET 12, SPRING 5, SPRING BOOT 2, SPRING WEBFLUX,
+LOMBOK, JAXB, MICROSERVICES(REST, SOAP), CXF, GUAVA,
+JACKSON, MODELMAPPER, MOCKITO, MOCKSERVER,
+TESTCONTAINERS, TOGGLZ, LOGBACK, SLF4J, DOM4J, JUNIT 5,
+SONAR, NEXUS, INTELLIJ, GIT, BITBUCKET, JIRA, MAVEN,
+SWAGGER, SOAPUI, POSTMAN, MONGODB, ROBO3T, ACTIVEMQ,
+MOM, NETTY, EUREKA, DOCKER, UNIX, WINDOWS 10
+07/2017 à 10/2018 CACIB(Crédit Agricole Corporate Investment Bank)
+15 mois Consultant JAVA Finance
+Contexte du projet : Au sein du service Solution Factory de CACIB, conception, développements,
+Support niveau 3 des applications MEMPHIS, ISAAC, CAESIGN, GVAL, PAPYRUS et ARGOS.
+Langues de travail : Anglais/Français
+Contribution :
+1. Conception et développement d’une application de supervision de Memphis
+2. Intégration d’Apex dans ISAAC
+Descriptif des tâches :
+• Analyse des besoins
+• Etude de faisabilité et Choix des solutions techniques
+• Conception technique et détaillée
+- Modèle relationnelle des données
+- Modèle physique des données
+• Développement
+- Création des scripts SQL des tables
+- Création et configuration des queues
+- Gestion des messages avec IBM MQ et Multithreading
+- Mapping objet relationnel avec Hibernate
+- Injection de dépendance avec Spring et Spring Boot
+- Création du web service avec Jersey
+- Loging avec Logback et SLF4J
+- Tests unitaires avec JUnit
+- Intégration du web service dans Argos
+- Intégration de l’application Apex dans ISAAC
+- Intégration continue avec Jenkins
+• Mise en production
+• Support niveaux 3
+ENV. FONCTION: BFI
+ENV. TECHNIQUE: JAVA, MULTITHREADING, SPRING, SPRING BOOT, SPRING DATA,
+HIBERNATE, LOMBOK, JAXB, SERVICE WEB (JERSEY), LOGBACK,
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+5SLF4J, DOM4J, JUNIT, SONAR, NEXUS, ECLIPSE, SVN, MAVEN, SQL
+SERVER, IBM MQ, WEBSPHERE, UNIX, WINDOWS 7
+08/2015 à 05/2017 HSBC (Hong Kong and Shanghai Banking Corporation)
+21 mois Consultant JAVA FIX Finance
+Contexte du projet : Au sein du service EQUITY DERIVATIVE de HSBC, conception,
+développements, support de niveau 3 de l’application ECOMMERCE qui permet de faire la cotation
+des produits dérivées d’actions.
+Langues de travail : Anglais/Français
+Contribution :
+1. Conception et développement d’un moteur de règle pour valider les paramètres de cotation.
+2. Conception et développement de Selfstore.
+3. Conception et développement de OneOMS.
+Descriptif des tâches :
+• Analyse des besoins
+• Etude de faisabilité et Choix des solutions techniques
+• Conception technique et détaillée
+- Modèle relationnelle des données
+- Modèle physique des données
+• Développement
+- Création des scripts SQL des tables
+- Mapping objet relationnel avec Hibernate
+- Gestion de caches avec Hazelcast
+- Injection de dépendance avec Spring
+- Création du moteur de règle avec Drools
+- Création des web services avec CXF
+- Intégration d’Omegaflow dans Ecommerce
+- Login avec SLF4J et Log4j
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+6- Tests unitaires avec JUnit et Mokito.
+- Vérifier la qualité du code avec JaCoCo et PMD
+- Tests fonctionnels avec Jbehave
+- Test d’intégration et de performance avec Soapui
+- Intégration continue avec Jenkins, Teamcity
+• Mise en production
+• Support niveaux 3
+ENV. FONCTION: BFI
+ENV. TECHNIQUE: JAVA, SPRING, SPRING DATA, SPRING SECURITY, HIBERNATE, JAXB,
+LOMBOK, GUAVA, DOZER, DROOLS, HAZELCAST, SERVICE WEB (CXF, SOAPUI),
+SLF4J, LOG4J, DOM4J, JUNIT, JBEVAVE, TEAMCITY, SONAR, NEXUS, ECLIPSE, SVN,
+RTC, GIT, MAVEN, ORACLE, UNIX, WINDOWS 7, FIX 4.4
+03/2015 à 06/2015 CACEIS
+3 mois Consultant JAVA Finance
+Contexte du projet : Au sein du service DSI de CACEIS, conception, développements du projet
+Newport permettant l’intégration des contrôles mandat au portail CACEIS.
+Langues de travail : Anglais/Français
+Contribution : Intégration des contrôles mandat au portail CACEIS.
+Descriptif des tâches :
+• Analyse des besoins
+• Etude de faisabilité et Choix des solutions techniques
+• Conception technique et détaillée
+- Diagrammes des cas d’utilisation
+- Modèle relationnelle des données
+- Modèle physique des données
+• Développement
+- Création des scripts SQL des tables et des procédures stockées
+- Mapping objet relationnel avec Hibernate
+- Injection de dépendance avec Spring
+- Login avec log4j
+- Test unitaire avec JUnit et Mokito.
+- Intégration continue avec Jenkins
+- Qualité et Refactoring avec Sonar, Checkstyle, PMD
+- Création, paramétrage et exécution des contrôles
+• Mise en production
+• Gestion des Releases et des incidents avec RAD, RTC, JIRA.
+• Support niveaux 3
+ENV. FONCTION: BFI
+ENV. TECHNIQUE: JAVA, SPRING, SPRING BATCH, HIBERNATE, JAXB, SERVICE WEB,
+LOG4J, JUNIT, RAD, RTC, SONAR, JENKINS, MAVEN, ANT, ORACLE, SYBASE, EXCEL
+06/2013 à 01/2015 SGCIB (Société Générale Corporate and Investment Banking)
+18 mois Consultant JAVA Finance
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+7Contexte du projet : Au sein du service ITEC de la SGCIB, conception, développements, support
+niveau 3 de l’application ODYSSEY qui permet de faire le calcul et le partage de marges de l’activité
+commerciale de la Banque.
+Langues de travail : Anglais/Français
+Contribution :
+1. Intégration de la CVA à l’application Odyssey
+2. Ajout de nouveaux périmètres (ROSE BANK, MAROC, MUMBAI, SINGAPORE TAIPEI, et
+KB)
+3. Ajout des nouveaux produits financiers (ABS et MBS) pour New York.
+4. Ajout d’un nouveau Module d’exports générique et optimisé
+5. Migration des reports BO (Business Object) sous MyReport.
+6. Chiffrage
+Descriptif des tâches :
+• Analyse des besoins
+• Etude de faisabilité et Choix des solutions techniques
+• Conception technique et détaillée
+- Diagrammes des cas d’utilisation, de Séquence, de classe et d’objets
+- Modèle relationnelle des données
+- Modèle physique des données
+• Développement
+- Création des scripts SQL des tables et des procédures stockées
+- Création des stubs des objets web service avec JAXB via ANT.
+- Mapping objet relationnel avec Hibernate
+- Récupération des données des applications de booking via les procédures stockées
+- Récupération des données des applications de booking via les webservices et les fichiers
+plats
+- intégration des données via Spring Batch
+- Login avec log4j
+- Test unitaire avec JUnit et Mokito.
+• Tests d’intégration, fonctionnels, et homologation via Spoon et Excel
+- Intégration continue avec Jenkins
+- Qualité et Refactoring avec Sonar
+- Publication sur Nexus
+• Documentation technique en anglais
+• Documentation et formation utilisateur en anglais.
+• Scheduling via Autosys
+• Mise en production
+• Monitoring de l’application avec TMON via Tibcorendez-vous.
+• Gestion des Releases et des incidents avec Itrack.
+• Création des rapports génériques pour Front, Middle et Back office
+• Extraction et Analyse des données via BO, Myreport, ETL SPOON et Excel.
+• Support niveaux 3
+ENV. FONCTION: BFI
+ENV. TECHNIQUE: JAVA, SPRING, SPRING BATCH, HIBERNATE, JAXB, SERVICE WEB,
+TMON (MONITORING), TIBCO RDV, LOG4J, DOM4J, JUNIT, ECLIPSE, SVN, SONAR,
+NEXUS, JENKINS, MAVEN, ORACLE, SYBASE, BUSINESS OBJECTS, MYREPORT
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+807/2009 – 06/2013 DOCAPOSTE DPS
+4 ans Ingénieur d’étude et développement JAVA
+Contexte du projet : Conception et réalisation du suivi de courrier (01/2013 – 06/2013)
+Contribution :
+1. Automatisation de l’intégration des fichiers de suivi.
+2. Création et envoie des rapports de suivi à la Poste.
+Descriptif des tâches :
+• Analyse des besoins avec les responsables de relation clients, et les commerciaux.
+• Choix de solutions techniques
+• Conception technique et détaillée
+• Développement
+- Scheduling des traitements avec les scripts Shell et les Crons sous Unix.
+- Parser les fichiers avec Sax
+- Génération des rapports
+- Login avec log4j
+- Tests unitaires avec JUnit
+• Tests d’intégration et fonctionnels
+• Documentation technique
+• Documentation utilisateur
+• Mise en production
+• Support
+• Maintenance
+ENV. TECHNIQUE : JAVA, MULTITHREADING, LOG4J, DOM4J, JUNIT, SHELL, UML,
+ECLIPSE, SVN, MYSQL, LINUX, AIX, WINDOWS 7
+Contexte du projet : Conception et réalisation d’un module de traitement Multi flux (07/2012 –
+12/2012)
+Contribution :
+1. Prise en charge de nouveaux formats de documents dans les traitements métiers.
+2. Développement de l’ensemble de la partie « Suivi des documents ».
+3. Recueil des besoins auprès des responsables de relation clients, et les commerciaux.
+Descriptif des tâches :
+• Analyse des besoins
+• Choix de solutions techniques
+• Conception technique et détaillée
+• Développement
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+9- Prise en charge des documents XML avec SAX.
+- Login avec log4j
+- Tests unitaires avec JUnit
+• Tests d’intégration et fonctionnels
+• Documentation technique
+• Documentation utilisateur
+• Mise en production
+• Support
+• Maintenance
+ENV.TECHNIQUE : JAVA, MULTITHREADING, HIBERNATE, JBPM, LOG4J, DOM4J, JUNIT,
+SHELL, UML, ECLIPSE, SVN, MYSQL, LINUX, AIX, WINDOWS 7
+Contexte du projet: Conception et réalisation d’un module de traitement PDF (08/2011 – 06/2012)
+Contribution :
+1. Ajout du traitement des documents PDF dans les traitements métiers
+2. Chiffrage
+3. Mise en place de l’ensemble de la partie Suivi des documents.
+Descriptif des tâches :
+• Analyse des besoins
+• Choix de solutions techniques
+• Conception technique et détaillée
+• Développement
+- Utilisation de ITEXT pour la gestion et l’optimisation des documents PDF.
+- Intégration au sein du moteur de workflow
+- Intégration au suivi des documents.
+- Login avec log4j
+- Tests unitaires avec JUnit
+• Tests d’intégration et fonctionnels
+• Documentation technique
+• Documentation utilisateur
+• Mise en production
+• Support et maintenance
+ENV.TECHNIQUE : JAVA, MULTITHREADING, HIBERNATE, JBPM, LOG4J, DOM4J, ITEXT
+JUNIT, SHELL, UML, ECLIPSE, SVN, MYSQL, LINUX, AIX, WINDOWS 7
+Contexte du projet: Conception et réalisation d’un moteur de tri (12/2010 – 07/2011)
+Contribution :
+1. Implémentation de la logique métier pour les nouveaux produits de la poste.
+2. Gestion de la tarification des nouveaux produits
+3. Tri des documents en fonction de la destination
+Descriptif des tâches :
+• Analyse des besoins
+• Choix de solutions techniques
+• Conception technique et détaillée
+• Développement
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+10- Mise en place d’une solution de multithreading
+- Mise en place de test de profiling pour la mesure des performances et de l’occupation de
+la mémoire.
+- Login avec log4j
+- Tests unitaires avec JUnit
+• Documentation technique
+• Documentation utilisateur
+• Mise en production
+• Support niveau 3 et maintenance
+ENV.TECHNIQUE : JAVA, MULTITHREADING, SERVICE WEB, HIBERNATE, JBPM,
+LOG4J,DOM4J, JUNIT, SHELL, UML, ECLIPSE, SVN, MYSQL, LINUX, AIX, WINDOWSXP,
+WINDOWS 7
+Contexte du projet : Conception et réalisation d’un moteur de workflow (10/2009 – 11/2010)
+Contribution :
+1. Paramétrage du le pool de threads
+2. Utilisation du multi threading pour les traitements parallélisés des fichiers.
+3. Optimisation des performances et gestion du cache.
+4. Création et Envoie des fichiers XML aux applications amont et avales à chaque étape du
+déroulement du programme.
+Descriptif des tâches :
+• Analyse des besoins
+• Choix de solutions techniques
+• Conception technique et détaillée
+• Développement
+- Gestion des workflows via JBPM
+- Utilisation du multi Threading
+- Login avec log4j
+- Test unitaire avec JUnit
+• Tests d’intégration et fonctionnels
+• Test de performance et de profiling avecJprofiler.
+• Documentation technique
+• Documentation utilisateur
+• Mise en production
+• Support
+• Maintenance
+ENV.TECHNIQUE : JAVA, MULTITHREADING, HIBERNATE, JBPM, SERVICE WEB,
+LOG4J, DOM4J, JUNIT, SHELL, UML, ECLIPSE, SVN, MYSQL, LINUX, AIX, WINDOWSXP
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+1110/2007 à 06/2009 PSA (Peugeot Société Anonyme)
+20 mois Consultant JAVA
+Contexte du projet : Développement d’une application de communications bancaires entre PSA et ses
+partenaires : fournisseurs, clients, filiales et banque.
+Langues de travail : Français
+Contribution :
+1. Sécuriser l’accès aux fichiers grâce à une mise en place de droits affectés en fonction de
+l’accréditation utilisateur (copier, supprimer, modifier, etc.)
+2. Journaliser l’ensemble des opérations effectuées sur ces fichiers
+3. Vérification des fichiers de transaction
+4. Réalisation de MOC pour simuler l’application
+5. Résolution de problèmes de sécurité an niveau des applettes grâce à des clés de cryptage et
+certificat de signature.
+Descriptif des tâches :
+• Analyse des besoins, plusieurs réunions avec les utilisateurs
+• Choix de solutions techniques pour l’architecture générale du système
+• Conception technique et détaillée de l’application.
+• Rédaction du dossier de conception, du dossier de test et de la stratégie de test
+• Création et chargement de la base de données
+• Développement des batch perl
+• Développement de classes métiers
+• Développement de la couche Service.
+• Développement et exécutions des tests unitaires
+• Développement de la couche présentation
+• Tests d’intégration et fonctionnelles
+• Mise en production
+ENV. FONCTION: INDUSTRIE
+ENV. TECHNIQUE: JAVA, APPLET, SWING, OJB, STRUTS, LEGO (PSA), LOG4J, JUNIT,
+ITEXT, PERL, UML, ECLIPSE, MAVEN, ENTERPRISE ARCHITECT,
+POWER DESIGNER, CVS, SVN SUN ONE WEB SERVER, ORACLE, LDAP
+Youssoufa.diallo@gmail.com
+(+33) 06 17 25 08 35
+PAGE
+12

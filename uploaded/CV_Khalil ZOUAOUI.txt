@@ -1,0 +1,170 @@
+Ingénieur étude et développement Microsoft .Net
+z o u ao u i .k h al il@ g m a il .c o m
+Khalil ZOUAOUI
++33 6 26 33 64 42
+Bezons 95870 - FRANCE Développeur senior full stack .Net Core / Angular / SQL
+➢ 37 ans, Permis B SCRUM Master
+Chef de projet
+Expériences professionnelles
+ARDIAN Leader mondial de l’investissement Privé 2 ans : 2021 / 2023
+A Z U R E D e v o p s Développeur Full Stack / SCRUM Master
+C#
+.Net 6.0 (core)
+.Net Standard Projet de migration : KATE application web dédiée au suivi des entreprises investies
+Entity Framework et de leurs performances sur le périmètre Fonds Direct (MidCap, Expansion,
+Angular Infrastructure, Co-Investissement).
+JavaScript ➢ Développement Frontend
+TypeScript
+Migration de AngularJS vers Angular 15
+SQL
+Développement de nouvelles IHM
+Immer
+RxJs / Component Store / BootStrap / Ag-Grid / Angular Material
+Yarn - Npm
+Matomo ➢ Développement Backend :
+Sentry Migration de .Net 4.7 vers .Net 6.0
+Angular Material Modèle CQRS (Command and Query Responsibility Segregation)
+NGRX store Approche Domain-Driven Design (Architecture en Oignon)-Mediator
+AutoMapper Développement de test Unitaire (NUnit / Mock)
+Fluent Validation ➢ Développement SQL
+Aspose
+Procédures stockés et Vues (Curseur / Jointure / Scripts..)
+Dapper
+Création de nouvelles tables
+Swagger
+➢ Power Bi
+PowerBi
+SSRS Création et intégration de rapports paginés
+Azure Data Studio Modélisation et création de DataSets
+SourceTree ➢ SCRUM Master
+GIT Animation des cérémonies (sprint planning, daily meeting, retro)
+VS Code Suivie des actions convenues lors de la retro
+VS Studio 2022 Suivie et MAJ du sprint board
+SQL SMS 19
+IT-CE Groupe BPCE-IT 3 ans : 2018 / 2021
+Lead Dev / SCRUM Master
+C # . N e t
+ASP.Net
+Projet CE Net Abonnement (Offre groupée Caisse d’Epargne) : Gestion des comptes
+Framework 4.5
+Visual studio 2019 et flux des clients professionnels.
+Spring .Net ➢ Développement des IHM et services web.
+HTML ➢ Accompagnement de l’équipe dans la transformation Agile.
+CSS ➢ Participation aux PI Planning et aux ateliers métiers.
+JavaScript ➢ Animation des cérémonies Agile.
+JQuery
+➢ Rédaction des US.
+Entity Framework
+T-SQL
+API SOAP Projet Liasse Fiscale DRC (Dossier Réglementaire Client) : Gestion électronique et
+TFS archivage de données.
+SQL Server 2012 ➢ Pilotage du projet.
+Pacbase ➢ Mise en place de l’architecture technique.
+Microsoft VISIO
+➢ Coordination entre les différentes équipes.
+Jira
+➢ Développement de Batch en Multithreading.
+Confluence
+HP QC
+GCEDOC Projet AEF (Analyse Economique et Financière) : Intégration des nouvelles rubriques
+Synergy de saisies des bilans sous le format CERFA 2019
+Pack-it ➢ Etudes d'impacts
+Install-it
+➢ Validation des livrables et spécifications techniques.
+XL Release
+➢ Création de scénario et suivie de test.
+XL Deploy
+➢ Déploiement et suivie de productionOrange Opérateur de télécommunications 3 ans : 2015 / 2018
+Développeur / Responsable méthodes et process
+C#.Net
+Framework 3.5
+Visual studio 2015 Développement Robots ATS ; Automates de Test de Services pour le contrôle
+PL-SQL continue de la QoS :
+API REST ➢ Etude et spécifications techniques.
+SQL Developer
+➢ Développement d’automates de test avec Selenium et Appium.
+SVN
+➢ Développement d’API Web.
+Appium server
+➢ Modélisation et contrôle de la conformité des processus.
+Selenium
+➢ Elaboration et évaluation de scenarii de tests.
+vSphere Client
+WinSCP
+ATCommand Projet ENDURANCE : Mise en place pour PEM de deux bancs d’endurance box
+Raspberry PI dans le cadre du projet QS Box.
+Modem Huawei ➢ Développement d’automate de teste de téléchargement P2P en
+multithreading avec le protocole BitTorrent.
+➢ Formation, support et maintenance.
+Projet PFA : Plan de fin d’année ARCEP 2016.
+➢ Mise en place d’un dispositif de tests d’envoi de SMS pour la nuit du 31
+Décembre.
+CDI Technologies Editeur de logiciel de CAO/DAO 3 ans : 2012 / 2015
+Développeur / Doctorant
+C#.Net
+Framework 3.0
+Visual studio 2013 Référent technique du produit KeaPolaris : Logiciel de dessin assisté par ordinateur
+WCF (CAO/DAO).
+Microsoft Access ➢ Rétro- ingénierie et développement de ligne de produit.
+Power AMC ➢ Maintenance évolutive et tests de validation.
+Turtoise SVN
+➢ Elaboration des cahiers de charges et spécifications technique.
+AraxisMerge
+➢ Développement de modules graphiques, interfaçage AutoCAD.
+Active Directory
+Windows Server
+2008 Projet SERVEAU : Logiciel de simulation et d’aide à la décision pour la réduction de
+FileZilla la Vulnérabilité énergétique des aménagements urbains.
+DropBox ➢ Spécification fonctionnelle.
+➢ Elaboration des diagrammes UML.
+➢ Gestion des réseaux LAN/VPN et virtualisation.
+➢ Administration et MAJ du site web http://www.cditech.fr
+Rédaction d’articles scientifique : « Application de l’IDM pour la modernisation et la
+migration d’application existante » Conférence INFORSID Lyon 2014.
+LAAS CNRS Laboratoire d’analyse et d’architecture des systèmes 6 mois : 2011
+Stagiaire chercheur / Développeur
+C++
+Perl Recherche sur la reconnaissance des différents états d’un réseau LAN TCP/IP.
+Visual Studio 2010
+➢ Développement d’un algorithme d’apprentissage
+Network Simulator 2
+➢ Rédaction d’un article journal en anglais (Ref : Global Information Infrastructure
+and Networking Symposium (GIIS) 2012 du 17 décembre au 19 décembre 2012,
+Choroni (Venezuela), Décembre 2012, 6p.)Média Center Editeur de logiciels 1 an : 2009 / 2010
+C#.Net
+Stagiaire développeur / PFE
+Framework 2.0
+V i s u a l S t udio 2008
+Remoting.Net Analyse des besoins, conception et développement du logiciel Parc-Info.
+SQL Server 2005
+➢ Application distribuée de gestion et d’administration d’un parc informatique.
+Telerik
+SVN ➢ Développement de module d’authentification client/serveur
+PacestarUML
+➢ Développement de module d’accès et contrôle distant.
+FTP
+SNMP ➢ Installation, formation utilisateurs et rédaction d’un manuel d’utilisation.
+Formations et certifications
+2020 Certificat .Net Application Security : CODEBASHING LTD
+2019 Certificat Leading SAFe 4 Agilist : Scaled Agile, Inc.
+2018 Certificat Agile SCRUM
+2017 Formations ASP.Net MVC 4 et C# Avancée : Global Knowledge
+2014 Doctorat en Informatique Fondamentale : LIFL Univ. Lille I
+2011 Master en Informatique et Télécommunications : INP ENSEEIHT Univ. Toulouse III
+2010 Maîtrise en Informatique et Réseaux Informatiques : ENIS Univ. Sfax-Tunisie
+2005 Baccalauréat scientifique – Mention Très Bien : Lycée Hedi Soussi Sfax-Tunisie
+Compétences
+Développements C#, VB, C, C++, Perl, Angular, JavaScript, TypeScript, XML, HTML, T/PL SQL.
+Modélisations UML, BPMN, IDM, Merise.
+Base de données Microsoft SQL Server, MySQL, Oracle, DB2, Access.
+Méthodologies Agile SCRUM, Scaled Agile SAFE, Cycle en V.
+Outils Visual Studio, Visual Code, SSMS, SVN, TFS, GIT, Jira, Confluence, AZURE DevOps.
+Gestion de projet Pilotage, Chiffrage, Spécification, Rédaction des US, Coordination, Communication.
+Business Intelligence Tableau, Power BI
+Langues
+Anglais Bonne maîtrise
+Arabe - Français Bilingue
+Intérêt
+Sport Basket-Ball (Scolaires et Universitaire) / Tennis
+Jeux vidéo Jeux de stratégie / jeux de FPS
+Vie associative Fondateur du club universitaire FSSOFT

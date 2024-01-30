@@ -1,0 +1,70 @@
+Avenue Habib Bourguiba,
+5090 Bekalta, Monastir
+Aya Mehri
+216 95 441 555
+aya.mehry30gmail.com
+Développeuse Fullstack /aya-mehry/
+/mehry-aya
+Étudiante en ingénierie génie logiciel en dernière année, je suis à la recherche d'un stage de fin d'études à partir du mois de Février,
+axé sur le développement web. Ma détermination à exceller, ma capacité à résoudre des problèmes et ma passion pour le
+développement web font de moi une candidate idéale. J'attends avec impatience l'opportunité d'apporter mon expertise unique à une
+équipe innovante. Mon objectif va au-delà de la simple acquisition d'expérience ; je souhaite également établir des relations
+significatives et évoluer aux côtés de professionnels partageant la même passion.
+Diplômes et
+EPI SOUSSE / BEIJING POLYTECHNIC CHINE
+Double diplôme ingénieurie en génie logiciel,
+Formations 09/2021 - en Cours
+FACULTE DES SCIENCES DE MONASTIR
+Diplôme en Licence Fondamentale en Science de lInformatique,
+09/2018 - 06/2021
+LYCEE SECONDAIRE DE BEKALTA
+Baccalaureat en Mathematiques,
+09/2014 - 06/2018
+Compétences LANGUAGES DE PROGRAMMATIONS
+C, C++, C#, JAVA, TypeScript, JavaScript, HTML, CSS, PHP, JEE, Python, GraphQL, PL/SQL, MySQL.
+FRAMEWORKS
+Angular, SpringBoot, Laravel, Reactjs, ASP.Net Core, Nodejs, NestJs.
+TECHNOLOGIES
+Hadoop, Github, Figma.
+Expériences Stagiaire PFE, WG Consulting - Stage  03/2021 - 05/2021
+Équipe : 1 testeur, 1 ingénieur sénior Angular, 1 stagiaire SpringBoot
+Conception et développement d'une application web pour la numérisation des menus via un code QR, permettant aux
+Professionnelles propriétaires de cafés et de restaurants de gérer leurs menus en format PDF et numérique, et offrant aux clients la possibilité de
+commander en scannant le code QR et en accédant au menu en utilisant Angular, SpringBoot comme frameworks et SCRUM
+comme méthodologie.
+- Gestion des menus : un espace où le propriétaire ajoute, modifie et personnalise son menu.
+- Gestion des établissements : un espace où le propriétaire ajoute et gère ses établissements.
+- Gestion des commandes
+- Module d'administration
+- Processus des paiements
+Stagiaire d'été, DunDill - Stage  06/2023 - 08/2023
+Équipe : 1 testeur, 1 chef de projet technique, 2 stagiaires ReactJs, 1 ingénieur sénior NestJs, 1 ingénieur junior GraphQL
+Conception et développement d'une application web de tableau de bord dédiée au processus de recrutement des développeurs chez
+DunDill, utilisant ReactJs, NestJs, GraphQL, et SCRUM comme méthodologie.
+- Gestion des opportunités : mettre en relation les développeurs avec le client et faciliter les candidatures.
+- Gestion des suivis : un espace pour suivre la progression des développeurs par le client.
+- Gestion des profils
+- Module d'administration
+- Processus des paiements
+Projets
+Application web de gestion de produits (JEE, Maven, Hibernate).
+Application web TODO LIST (React Js).
+Académiques
+Application web de gestion des soutenaces au sein de l'EPI (ASP.NET MVC).
+Application web de planification de rendez-vous (SpringBoot, Angular).
+- Gestion des services
+- Gestion des rendez-vous
+- Gestion des disponibilités
+- Réservation de rendez-vous en ligne
+- Module d'administration
+Application web de téléconsultation médicale en ligne (MERN).
+- Gestion des patients
+- Gestion des rendez-vous
+- Gestion des dossiers médicaux et des ordonnances
+- Module d'administration
+Vie Associative
+GDSC EPI Lead 2023-2024
+Membre Active à IEEE EPI
+Membre Active à EPI COPRO
+Langues
+Arabic: Native English: Avancé French: Avancé

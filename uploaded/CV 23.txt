@@ -1,0 +1,52 @@
+Data Engineer/
+Ilyas WADJINNY
+Scientist GrandParis-France
+(cid:72)+33749019558
+(cid:66)ilyas.wadjinny@gmail.com
+(cid:239) linkedin.com/in/ilyas-wadjinny
+À la recherche d’un CDI en Data
+§ github.com/Wadjinny
+Engineering/Data Science
+(cid:18) w-ilyas.netlify.app
+Formations
+2020-2023 IngénieurCY-Tech,Mathématiquesappliquées-DataScience
+(cid:123) Programmationparallèle,équationsdifférentielles,programmationfonctionnelle,architectureréseau,finance.
+2019–2020 Deuxièmeannéeclassespréparatoires,LycéeJeanBart,filièreMathématiques-Physiques
+2018–2019 Premièreannéeclassespréparatoires,LycéeALKHANSAA,filièreMathématiques-Physiques
+Expériences professionnelles
+Sept. 2022 MILVUE,Alternant,DataEngineer/Scientist,Paris-France
+Sept. 2023 Contexte:Uneentreprisequidéveloppedessolutionspourl’identificationdespathologiesenimageriemédicale,
+ainsiquepourl’optimisationdesfluxdepatients.
+(cid:123) DévelopperunpipelinequiexploitelesdonnéesdetélémétrieGCPpouranalyserl’utilisationduservicede
+reconnaissanced’imagesradio,ainsiquelacréationd’undashboardpourprésenterlesKPIsassociés.
+(cid:123) Créerunpackagepythonquipermetlecomparaisondesprédictionsdel’algorithmedereconnaissanced’images
+radioaveclesrésultatsderéférence,enutilisantlacorrélationPearson,ICCetlediagrammedeBland-Altman
+etc.
+(cid:123) Développeruneinterfaceinteractivequiexploitelepackagedecomparaisonpourafficherdesdiagrammes
+dynamiquesetpermettrel’évaluationdespointsfaiblesdumodèle.
+(cid:123) Créationd’unpackagepythonpourl’analyseetlaprévisiondesfluxdepatients,basésurlessériestemporelles.
+(cid:123) Développeruneinterfaceinteractivequis’appuiesurlepackagedeprévisiondesfluxquipermetl’affichage
+desrésultats,ainsiqued’autresmesuresclés.
+Compétences:Python,Pandas,scipy/stats,GoogleCloud,Streamlit,GitlabCI/CD
+Déc. 2020 EvidenceB,Alternant,DataScience&Machinelearning,Paris-France
+Août2022 Contexte:Uneentreprisequidéveloppedessolutionspourl’apprentissageadaptatif.
+(cid:123) DévelopperunoutilpourextraireettransformerlesdonnéesbrutesJSONprovenantdeplusieursplateformes
+d’apprentissage(Langues,Maths,Latin)toutenstandardisantleursformatsetenlesenrichissantavecdesKPIs.
+(cid:123) DévelopperunmodèleK-meanspourclassifier600kétudiantsenfonctiondeleursrésultats.
+(cid:123) CréeruntableaudebordpourprésenterlesKPIsliésauxrésultatsdesélèves.
+(cid:123) Créerunoutilpourvisualiserlesrèglesquipermettentauxétudiantsdepasserd’uneactivitéàl’autre.
+Compétences:K-means,Scikit-Learn,Matplotlib,NetworkX,Pandas,Streamlit,Docker,git,Jira,Selenium
+Projets
+Déc. 2022 Startup,Co-créateur
+Avr. 2023 (cid:123) Développementd’unoutildewebscrapingquipermetauxclientsd’extrairedesdonnéesd’unsitewebetde
+lesstockerdansunebasededonnéesstructurée,toutengarantissantlafraîcheurdesdonnées.
+Compétences:MicrosoftAzure,Azurefunctions,PostgreSQL
+Janv. 2023 InsightsfromCSV(cid:18),projetpersonnel
+(cid:123) Unoutilwebefficaceetinteractifpourobtenirdesinformationsdirectementàpartird’unfichierCSV.
+Compétences:JavaScript,D3.js,Azurewebappservice
+Compétences informatiques
+Langages&outils Python R scala SQL D3.js HTML CSS VScode
+Frameworks&LibrariesTensorflow Numpy Pandas sklearn Dash Streamlit
+DevOps Git Docker GithubActions GitLabCI/CD
+Certifications
+2020 Angular+NestJS(cid:18) 2016 JAVA(cid:18) 2017 PHP(cid:18) 2016 JavaScript(cid:18)

@@ -1,0 +1,47 @@
+Yassine Tabarani
+Paris, 750014
+I 06 58 46 90 16
+G´enie Informatique et Math´ematiques
+# yassinetabarani@gmail.com
+FORMATION
+2022–2023 Msc in Industrial and Applied Mathematics, Grenoble, Data Science and AI.
+○ Machine Learning, Deep Learning, Cloud computing, Big Data.
+2020–2023 ENSIMAG, Grenoble, Informatique et math´ematiques appliqu´ees.
+○ Unix et programmation shell, programmation imp´erative, orient´ee objet, conccurente, Base de donn´ees,
+Syst`eme d’exploitation, R´eseaux, D´eveloppement web/mobile.
+○ Analyse, Probabilit´es, Statistiques, Optimisation num´erique, Recherche op´erationnelle.
+2018–2020 Classes pr´eparatoires aux grandes ´ecoles, MPI.
+´
+EXPERIENCES PROFESSIONNELLES
+Mars - Aouˆt Cr´edit Agricole CIB, Stage de fin d’´etude, Paris.
+2023 Mise en place d’une solution end-to-end pour un mod`ele interne de d´etection pr´ecoce des d´egradations des ratings
+en Python.
+○ D´eveloppement d’une librairie python pour le mod`ele statistique de d´etection pr´ecoce.
+○ Profiling,optimisationdecodeetacc´el´erationd’ex´ecutionsurlabaseduframeworknumbaetdumultiprocessing.
+○ Construction de datamarts avec SQL pour la phase de Data Retrieval et Data Preprocessing.
+○ Mise en place de tests unitaires et d’int´egrations avec Pytest.
+○ Mise en place d’une interface web pour le reporting avec Python Django.
+○ Environnement technique: Python 3, Pandas, Numpy, Scikit-Learn, Django, Numba, Bash, SQL, Git.
+F´evrier - Avril Laboratoire d’informatique de Grenoble, Projet ´ecole/laboratoire, Grenoble.
+2022 Impl´ementation d’un compilateur en Java pour un langage propri´etaire dot´e d’une syntaxe et de fonctionnalit´es
+propres en mode agile.
+○ R´ealisation de l’analyse lexicale et syntaxique avec un g´en´erateur lexeur/parseur ANTLR4.
+○ Mise en place de tests et ´evaluation de la couverture avec Jacoco.
+○ Automatisation des tests avec des scripts bash.
+○ Impl´ementation d’une librairie pour le calcul trigonom´etrique avec l’algorithme CORDIC.
+○ Environnement technique: Java 8, Maven, Jacoco, Bash, Git.
+´
+PROJETS ACADEMIQUES
+2020-2021 Projet Base de donn´ees, Conception d’une application pour de l’e-commerce.
+Conception d’une application en Java adoptant un syst`eme d’ench`ere pour la vente.
+○ Impl´ementation de la base de donn´ees sur Oracle.
+○ D´eveloppement d’une interface graphique JAVA avec Swing permettant la d´emonstration des fonctionnalit´es
+de l’application.
+○ Environnement technique: JAVA 8, JDBC, SQL, Data Modeling.
+2020-2021 Projet G´enie Logiciel, Interface Graphique en C.
+D´eveloppement d’une biblioth`eque logicielle en C pour la r´ealisation d’interfaces graphiques qui permet la cr´eation
+et la configuration de widgets.
+○ Impl´ementation d’un utilitaire de fonctions pour le dessin des primitives graphiques.
+○ Cr´eation et configuration des widgets, gestion de la g´eom´etrie (clipping, resizing) et gestion des ´ev`enements
+(callbacks, handler).
+○ Environnement technique: C, Makefile, Git.

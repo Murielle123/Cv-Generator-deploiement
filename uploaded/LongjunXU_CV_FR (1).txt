@@ -1,0 +1,72 @@
+Longjun XU
+93360 NEUILLY-PLAISANCE
+# XULONGJUN.PRO@GMAIL.COM # LINKEDIN.COM/IN/LONGJUN-XU-25081188
+Résumé
+Ingénieur développeur Azure Dotnet. Certifié par Microsoft
+Compétences
+• Méthode : Agile Scrum/kanban
+• Langages de programmation : C#, SQL, pipeline CI/CD yaml, Powershell, Terraform, dockerfile
+• Framework: Dotnet core 6, ASP.NET web form/MVC/API, xunit, selenium, ORM (EF/Dapper)
+• IDE : VS, VS code, SSMS
+• Outils : Azure, Azure devops, Git/Github
+• Langages : Français : courant, Anglais : courant, Mandarin : maternelle
+Certifications
+• 16/07/2022: Microsoft AZ-204 : Microsoft Certified: Azure Developer Associate
+• 17/04/2022: Microsoft AZ-900: Microsoft Certified: Azure Fundamentals
+• 19/09/2019: Microsoft 70-483: Exam 483: Programming in C#
+Expérience
+Ingénieur développeur/devops Azure Dotnet - 07/2021 à présent.
+Athlon France (Freelance)
+Athlon (une filiale de Mercedes-Benz Group AG) est un fournisseur de solutions de location longue durée et de gestion de
+parcs automobiles en Europe
+Mission :
+• Analyse, conception et POC de la solution Azure Architect
+• Migration apps sur cloud avec (Azure function/App service, Windows Container Docker, Azure
+Service bus, storage account, App configuration)
+• Migration des flux Contrôl-M à azure devops pipeline
+• Devops CI/CD terraform
+• Résoudre les problèmes de vulnérabilités de sécurité On-Premises, OIDC-MFA.
+• Trouble shootings
+Stack technique :
+Agile scrum, Azure, Azure devops, C# dotnet core 6 / Framework, yaml, powershell, API REST, VS code/ Vs,
+Sql server, Git/Github entreprise, CI/CD azure devops pipeline and terraform, Docker with Windows image,
+Azure components (app service, function, app configuration, service bus, azure container registry etc.… )
+Ingénieur développeur Dotnet - 06/2019 à 06/2021
+SNCF RESEAU — Département de la Mesure et des Essais (CDI in Méritis)
+Ensemble des logicielles de visualisation des éléments composant une zone ferroviaire. Ils permettent de produire
+(Valorisation/Mise en qualité) des données des différents engins de mesures.Mission :
+• Assurer l’intégration et le codage de nouvelles fonctionnalités ou la reprise de fonctionnalités
+existantes.
+• Maintien en condition opérationnel de l’applicatif et des logiciels.
+• Participer à la diminution de la dette technique.
+Stack technique :
+C# dotnet framework, Entity Framework, MangoDB, SQL Server, TFS
+Ingénieur développeur Dotnet - 02/2016 à 06/2019
+Talantsoft (CDI)
+Editeur de logiciel dans le domaine RH en Mode SAAS
+Mission :
+• Intervention sur des missions de prestations à réaliser en interne.
+• Recherche de pistes d'innovation et d'amélioration du produit.
+• Conception, réalisation, revues de code d’équipe.
+• Analyse les dysfonctionnements applicatifs (reproductibilité, analyse d’impact, etc).
+• Détermination la cause racine des incidents applicatifs et participation à leur résolution en
+coordination avec les équipes R&D, Production, Architectes, DBA, DevOps.
+• Participation à l'amélioration le processus de test.
+Stack technique :
+Agile Kanban, C#.Net Framework 4.7, ASP.NET Web form/MVC, SQL Server, Jenkins, Zendesk/Jira, GIT/
+Bitbucket, ELK Stack/kibana, TDD, selenium c#
+Junior ingénieur développeur Dotnet - 09/2014 à 01/2016
+Eudonet (CDI)
+Editeur de logiciel dans le domaine CRM en Mode SAAS
+Mission :
+• Conception, spécification et développement les prestations techniques.
+• Assurer les prestations techniques liées aux projets confiés incluant notamment du développement,
+du paramétrage, des réalisations d’interfaces avec d’autres applications, de l’intégration de données.
+• Correction, maintenance, explication des développements en production.
+Stack technique : C# ASP.NET Webform , SQL Server, SVN, JavaScript/JQuery,
+Formation
+2011-2014 (BAC+ 5) Ingénieur Télécommunication et Réseaux
+(Option application informatique et réseaux)
+Ecole d’ingénieur Sup Galilée
+2007-2011 Diplômé Universitaire Technologie d’électronique et science
+Université de la Poste et de la Télécommunication de Xi’an, Chine

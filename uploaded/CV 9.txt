@@ -1,0 +1,75 @@
+OUSSEMA GASSARA
+Computer science engineering student
+I am a third-year computer science student at ENIS, looking for
+an end-of-studies project. I am a talented, ambitious, and
+hardworking individual with a broad range of skills to conceive
+and execute successful projects.
+EDUCATION EXPERIENCES
+National School of Engineering in sfax (ENIS) Summer intership : Actia Engineering Services
+2021-2024 Jun 2023 - Aug 2023
+Preparatory Institue of Engineering studies Mobile application for event management :
+Sfax Development of a dynamic mobile application 'Actia Event' within a highly
+2019-2021 innovative environment, which has streamlined event management and en-
+Gremda High school of sfax hanced user engagement through QR code scanning and real-time
+2019 notification reception to stay informed about updates.
+Tunisian technical baccalaureate with a Very Flutter , Windows Flutter , Firebase , Figma
+Good Mention
+End of Year project : Digital Research Center of Sfax
+Feb 2023 - Jun 2023
+SKILLS Mobile application for olive disease classification :
+Implemented an AI-powered tree disease detection solution within a mobile
+Advanced application, enabling real-time disease assessment and ensuring quick resp-
+onse to tree health issues.
+Dart Flutter , Java , Python , Node.js ,
+Flutter , Python , Deep Learning , PyTorch , MongoDB
+Express Js , JavaScript , Git , Github ,
+Gitlab , Docker , kubernetes Summer intership : Digital Research Center of Sfax
+Jun 2022 - Aug 2022
+Intermediate
+Water irrigation with reinforcement learning :
+Implemented intelligent precision irrigation system using reinforcement learni-
+Angular , SpringBoot , TypeScript , SQL ,
+ng techniques, integrating Olive Tree Sensors for environmental monitoring and
+Junit , Jira , Keras , TensorFlow , Deep
+adaptive irrigation decisions.
+Learning , Reinforcement Learning , Data
+python , reinforcement learning
+Science
+PROJECTS
+Familiar with
+Web application based on microservices Angular/SpringBoot
+C , PHP , Shell , LaTeX , ASP .NET Core, Developed a web-based research laboratory management application, integr-
+Docker , Android Studio , Pytorch , Scikit- ating Spring Security for data protection, and conducted automated unit test-
+learn , Seaborn ing with JUnit for enhanced reliability and efficiency.
+Java , Spring Boot , Spring security , Rest , Junit , Angular TS , MySQL
+CONTACT DETAILS Container orchestration with Docker and Kubernetes
+Deployed a multi-container application using Docker Compose and orchestr-
+Sfax , Tunisia
+ated the deployment of interconnected services through Kubernetes, enhanc-
+oussema321.github.io/MyPortfolio/ ing the development-to-production process.
+(+216) 58 056 969 Docker , Docker Compose , Kubernetes , React , Nodejs , MongoDB
+Image Classification with Flutter and Nodejs
+oussema.gassara@enis.tn
+Created an image classification application utilizing Tensorflow Lite to identi-
+/oussema321
+fy individuals wearing masks.
+/oussema-gassara
+Flutter , Figma , Express Js , Nodejs , MongoDB , Tensorflow
+Web application
+LANGUAGES Created a web-based travel application entails the process of designing, build-
+ing, and enhancing a digital platform that facilitates travel-related activities.
+Arabic : Native language
+Html5 , CSS3 , JS , PHP , MYSQL , XAMPP , AJAX , BOOSTRAP .
+English : Professional Proficiency
+CERTIFICATIONS
+French : Professional Proficiency
+. Azure AI Fundamentals
+. Convolutional Neural Networks
+QUALITIES
+. Neural Networks and Deep Learning
+Collaborative , Energetic , Inquisitive . Structuring Machine Learning Projects
+Agile-minded
+. Analyze Datasets and Train ML Models using AutoML
+. Sample-based Learning Methods
+. Fundamentals of Reinforcement Learning
+. Machine Learning

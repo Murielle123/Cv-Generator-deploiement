@@ -1,0 +1,94 @@
+Omar EL BOUHASSANI
+elbouhassaniomargmail.com
++33753527660
+Lead Développeur Java / Angular
+Diplôme dingénieur en informatique (Ecole Nationale des Sciences Appliquées). (2012-2015)
+Classes préparatoires aux grandes écoles. (2010-2012)
+Outils : Jenkins , Git , JIRA , Confluence, Postman, Swagger.
+Langages  framewroks :Java, Typescript , JavaScript, Spring, Spring AOP, Spring Cloud, Spring Boot,
+Hibernate , Angular, Cucumber ,Fitnesse ,Protractor , Robot framework, ActiveMQ, Kafka.
+SGBDR : Oracle, PostGreSQL.
+Methodologies : Agile (Scrum), TDD, BDD, Software Craftsmanship.Crédit Agricole CIB Depuis 2021
+LeadDéveloppeurJava/Angular
+Le rapatriement dune application de give-up activity de Londres à Paris. Cest une application
+dautomatisation du calcul des expositions des positions en temps réel. Dans un environnement
+purement anglophone (Londres), jai eu lopportunité de travailler sur des sujets divers :
+LerapatriementduprojetdeLondresàParis:Assurer la transition du projet à Paris et revue et amélioration
+des développements.
+Lesvérificationspré-trade:La vérification de limpact des trades sur le portfolio (Breaches, limites).
+Lesvérificationspost-trade:La vérification de limpact des trades sur le portfolio (Breaches, limites) en
+temps réel une fois les trades bookés.
+Configurationdeslimites:Une interface graphique riche qui permet de configurer dune manière très
+détaillée les limites, les devises acceptées
+Autres:Lead technico-fonctionnel, livraisons en production, support technique et fonctionnel, Scrum Master.
+Environnement:
+- EcosystèmeJava/Spring:Architecture Microservice, java 8, Spring 5, Spring boot 2, hibernate,
+spring-data, spring-security, oauth2, eureka, swagger, Kafka, Junit.
+- EcosystèmeTypeScript/Angular:Angular 5, typescript, bootstrap, HTML, CSS, Karma.
+- CI/CD:git, jenkins. - Méthodologie : Agile (Scrum), TDD, BDD.
+- Basededonnées:Oracle, SQL.
+- Outils:Postman, ELK.
+Bnp Paribas CIB (2020-2021)
+DéveloppeurFullStackSéniorJava/Angular
+La réécriture de lapplication connexis cash avec les nouvelles technologies.Connexis cash est une
+solution e-banking all-in-one ,elle permet deffectuer des transactions worldwide et davoir une vision
+globale sur lensemble des comptes des corporates. Dans un environnement très exigeant et agile, jétais
+impliqué dans les projets suivants :
+SCTInst(SepaCreditTransferInstantPayments):Etudes, développements et déploiement du projet from
+scratch : Étude de connectivité avec le moteur de paiement, développement de deux APIs
+principales : la vérification de l'éligibilité et l'exécution de paiement.Lagénérationdespaiements:cest un workflow très complexe pour générer les paiements XMLISO, MT101,
+en prenant en compte les spécificités de chaque pays et les préférences des clients. Après la génération des
+paiements ils sont redirigés vers le moteur du paiement correspondant en fonction du périmètre du client.
+PaiementsFX:Lintégration de la plateforme FX as API, ça permet dobtenir le taux de change en temps
+réel.
+RéécrituredelabibliothèquededéchiffrementavecPGPetBouncyCastle: Cette bibliothèque est
+utilisée pour déchiffrer les fichiers de paiements reçus dans le CFT de lapplication, principalement utilisée par
+Heineken.
+SDD-MANDATE:Le développement dun module pour gérer les prélèvements et demander les refunds.
+GatewayOnline:Un service dédié aux clients VIP, ça leur permet de faire un certain nombre daction comme
+la validation des paiements H2H via Connexis.
+Autres : Développement des tests unitaires, des tests d'intégration, code review, release  déploiement.
+Environnement:
+- EcosystèmeJava/Spring:Architecture microservice, java 8, Spring 5, Spring boot 2, hibernate, spring-
+data, spring-security, oauth2, eureka, swagger, ActiveMQ, Junit, fitnesse.
+- EcosystèmeTypeScript/Angular:Angular 16, typescript, bootstrap, html, css, Karma.
+- CI/CD:git, jenkins. - Méthodologie : Agile (Scrum), TDD, BDD.
+- Basededonnées:Oracle, sql.
+- Outils:Postman, oracle sql developer, robot framework, splunk.
+Société Générale CIB (2017-2020)
+DéveloppeurFullStackJava/Angular
+Le développement dune application pour digitaliser le traitement de documents et automatiser les contrôles de
+conformité. Lobjectif est daméliorer les contrôles effectués par la banque et de réduire les risques
+opérationnels. Dans un environnement agile (modèle Spotify), jétais impliqué dans les projets suivants :
+RéécrituredelUI:La réécriture Lapplication front avec Angular 5.
+Développementdesdifférentsmodulesdecontrôledeconformité:
+- Embargo-check: La vérification en temps réel des différentes sanctions: embargo, RSE,
+sanctions humanitaires.
+- Vessels:Retracer les routes des bateaux détenus par lentreprise, et vérifier ensuite si ces
+routent ne représentent pas de risques opérationnels.- Individuals:Pour vérifier les interdits bancaires des individus...
+Développementdumodulehitanalysis:cest un module qui permet de présenter le résultat de
+l'analyse de lintelligence artificielle aux opérateurs, ensuite ils doivent valider ce résultat.
+Autres : Développement des tests unitaires, test d'intégration et des tests E2E, release des librairies et des
+micro services, code review.Ecriture des scénarii BDD en collaboration avec les Business analystes.
+Environnement:
+- EcosystèmeJava/Spring:Architecture microservice, java 8, Spring 5, Spring boot 2, hibernate,
+spring-data, spring-security, oauth2, eureka, swagger, ActiveMQ, Junit, fitnesse.
+- EcosystèmeTypeScript/Angular:Angular 5, typescript, bootstrap, html, css, karma, protractor.
+- CI/CD:git, jenkins, xl deploy.
+- Méthodologie:Agile (Scrum), TDD, BDD.
+- Basededonnées:Oracle, sql.
+- Outils:Postman, oracle sql developer, robot framework, ELK.
+4D logiciels (2015-2017)
+DéveloppeurFullStackJavascript
+Wakanda (https://wakanda.github.io/) est une plateforme JavaScript pour développer et exécuter des
+applications Web ou mobiles. Wakanda se compose d'une stack d'outils et de technologies :
+- WakandaServer:Combine une base de données relationnelle avec un moteur JavaScript basé sur
+le V8 engine , elle Fournit une couche d'abstraction de base de données , une API REST générée
+automatiquement et une gestion de la couche de sécurité.
+- WakandaStudio:Un IDE moderne qui supporte en plus de la conception de la base de
+données et le développement JavaScript coté serveur, les différentes technologies front et
+mobile comme Angular et Ionic.
+Ma mission principale était la RD autour des technologies angularJS (Angular après sa sortie), Ionic(Ionic 2),
+et leur intégration dans Wakanda Studio.
+Autres : la mise en place de l'infrastructure d'intégration continue.
+Environnement:JavaScript , AngularJS , Angular, Gitlab, gitlab-ci.
