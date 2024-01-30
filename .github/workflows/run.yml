@@ -23,4 +23,4 @@ jobs:
 
       - name: Deploy Code
         run: |
-          streamlit run app.py
+          streamlit run --server.address=0.0.0.0 app.py
