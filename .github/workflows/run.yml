@@ -26,4 +26,4 @@ jobs:
 
       - name: Deploy Code
         run: |
-          streamlit run --server.address=10.188.174.185 --server.port=8501 app.py
+          streamlit run --server.address=0.0.0.0 --server.port=8501 app.py
