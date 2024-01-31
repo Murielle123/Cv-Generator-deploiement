@@ -23,7 +23,9 @@ jobs:
           pip install -r requirements.txt
       - name: Install Dotenv
         run: pip install python-dotenv 
-
+      - name: Afficher l'adresse IP
+        run: |
+          echo "Adresse IP : ${{ runner.ip }}"
       - name: Deploy Code
         run: |
           streamlit run --server.address=0.0.0.0 --server.port=8501 app.py
