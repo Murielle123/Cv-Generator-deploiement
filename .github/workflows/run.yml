@@ -23,8 +23,6 @@ jobs:
           pip install -r requirements.txt
       - name: Install Dotenv
         run: pip install python-dotenv 
-      - name: Load .env File
-        run: python -m dotenv --file .env
 
       - name: Deploy Code
         run: |
