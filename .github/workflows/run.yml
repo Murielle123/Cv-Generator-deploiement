@@ -1,27 +1,29 @@
-name: Run Python Script
+name: Deploy to Production
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
-
+    env:
+      API_KEY: ${{ secrets.MY_SECRET_OPENAI_API_KEY }}
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Setup Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.12  # Remplacez par la version Python souhaitée
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12
 
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt 
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Install Dotenv
+        run: pip install python-dotenv 
 
-    - name: Run Python Script
-      run: python test.py
+      - name: Deploy Code
+        run: |
+          streamlit run  --server.port=8501 app.py
