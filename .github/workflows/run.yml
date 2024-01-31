@@ -26,4 +26,4 @@ jobs:
 
       - name: Deploy Code
         run: |
-          streamlit run  --server.port=8501 app.py
+          streamlit run app.py
