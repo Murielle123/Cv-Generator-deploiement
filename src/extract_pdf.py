@@ -30,19 +30,27 @@
 
 from time import sleep
 from tqdm import tqdm
-import os
 from openai import OpenAI
+from dotenv import load_dotenv, dotenv_values
 import json
 import ast
+import os
 
-# clé API Murielle
-# key = "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"
-# clé API Yassine
-# key = "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"
-# clé API Kamel
-key = "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"
+# Specify the path to the .env file
+dotenv_path = os.path.join(os.path.dirname(__file__), '..', '.env')
 
-client = OpenAI(api_key=key)
+# Load environment variables from the .env file
+load_dotenv(dotenv_path)
+
+# Read the environment variables into a dictionary
+config = dotenv_values()
+ 
+openai_api_key = config["my_secret_openai_api_key"]
+
+
+
+
+client = OpenAI(api_key=openai_api_key)
 
 prompt_profil = """Extrait le nom du candidat en l'écrivant toutes ses lettres en majuscule et le prénom du candidat en écrivant uniquement la première lettre du prénom en majuscule et les autres lettres
                     en minuscule. N'écrit pas de phrase au début ou à la fin, je veux que ta sortie soit strictement dans ce format. Toutes les clés doivent être présentes dans le json. 
