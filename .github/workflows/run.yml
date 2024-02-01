@@ -23,11 +23,6 @@ jobs:
           pip install -r requirements.txt
       - name: Install Dotenv
         run: pip install python-dotenv 
-      - name: Build Streamlit Docker Image
-        run: docker build -t my_streamlit_app .
-
-      - name: Run Streamlit Docker Container
-        run: docker run -p 8501:8501 my_streamlit_app
 
       - name: Deploy Code
-        run: streamlit run app.py 
+        run: streamlit run test.py 
