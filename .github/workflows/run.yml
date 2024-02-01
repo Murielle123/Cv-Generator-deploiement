@@ -24,4 +24,4 @@ jobs:
         pip install -r requirements.txt  # Si vous avez des dépendances à installer
 
     - name: Run Python Script
-      run: python test.py  # Remplacez par le chemin de votre script
+      run: streamlit run test.py  # Remplacez par le chemin de votre script
