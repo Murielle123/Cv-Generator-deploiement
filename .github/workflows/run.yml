@@ -1,27 +1,27 @@
-name: Deploy to Production
+name: Run Python Script
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
-   
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+    - name: Checkout Repository
+      uses: actions/checkout@v2
 
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.12
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.12  # Remplacez par la version Python souhaitée
 
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: Install Dotenv
-        run: pip install python-dotenv 
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Si vous avez des dépendances à installer
 
-      - name: Deploy Code
-        run: streamlit run test.py 
+    - name: Run Python Script
+      run: python test.py  # Remplacez par le chemin de votre script
