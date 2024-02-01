@@ -25,4 +25,4 @@ jobs:
         run: pip install python-dotenv 
 
       - name: Deploy Code
-        run: streamlit run app.py
+        run: streamlit run app.py --browser.gatherUsageStats false
