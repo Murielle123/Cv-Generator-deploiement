@@ -1,27 +1,33 @@
-name: Run Python Script
+name: Deploy to Production
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
-
+    env:
+      API_KEY: ${{ secrets.MY_SECRET_OPENAI_API_KEY }}
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Setup Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.12  # Remplacez par la version Python souhaitée
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12
 
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt  # Si vous avez des dépendances à installer
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Install Dotenv
+        run: pip install python-dotenv 
+      - name: Build Streamlit Docker Image
+        run: docker build -t my_streamlit_app .
 
-    - name: Run Python Script
-      run: streamlit run test.py  # Remplacez par le chemin de votre script
+      - name: Run Streamlit Docker Container
+        run: docker run -p 8501:8501 my_streamlit_app
+
+      - name: Deploy Code
+        run: streamlit run app.py 
